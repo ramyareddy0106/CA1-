@@ -1,5 +1,0 @@
-"ls" is used to find a list of files
-"time" which when entered shws the current time if the device is synced.
-"mkdir NAME" is used to create a directory
-"rmdir NAME" is used to delete directory created previously.
-
