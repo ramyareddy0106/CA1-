@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+    {
+       int choice();
+       printf("choose a branch:\n");
+       printf("1. CSE\n");
+       printf("2. AIML\n");
+       printf("3. ECE\n");
+       printf("4. Mechanics\n");
+       scanf("%d", &choice);
+       switch(choice) {
+            case1: printf("You chose CSE:\n");
