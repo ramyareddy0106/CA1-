@@ -9,4 +9,7 @@ int main()
        printf("4. Mechanics\n");
        scanf("%d", &choice);
        switch(choice) {
-            case1: printf("You chose ECE\n")
+            case1: printf("You chose cse\n");
+            case2: printf("you chose aiml\n");
+            case3: printf("you chose ece"); 
+    }
